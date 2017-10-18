@@ -1,0 +1,39 @@
+V3 30
+FL "C:/Proyectos ISE/Ejercicio1/proyecto1/proj1est.vhd" 2017/10/06.09:26:07 P.20131013
+EN work/proj1est 1507307653 \
+      FL "C:/Proyectos ISE/Ejercicio1/proyecto1/proj1est.vhd" \
+      PB ieee/std_logic_1164 1381692176 PH work/proj1pack 1507307642
+AR work/proj1est/Behavioral 1507307654 \
+      FL "C:/Proyectos ISE/Ejercicio1/proyecto1/proj1est.vhd" EN work/proj1est 1507307653 \
+      CP VGA CP GPU CP int
+FL "C:/Proyectos ISE/PROYECTO/GPU.vhd" 2017/10/06.11:33:18 P.20131013
+EN work/GPU 1507307649 FL "C:/Proyectos ISE/PROYECTO/GPU.vhd" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/std_logic_arith 1381692177 \
+      PB ieee/STD_LOGIC_UNSIGNED 1381692179
+AR work/GPU/Behavioral 1507307650 \
+      FL "C:/Proyectos ISE/PROYECTO/GPU.vhd" EN work/GPU 1507307649
+FL "C:/Proyectos ISE/PROYECTO/int.vhd" 2017/10/05.18:19:26 P.20131013
+EN work/int 1507307651 FL "C:/Proyectos ISE/PROYECTO/int.vhd" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/std_logic_arith 1381692177 \
+      PB ieee/STD_LOGIC_UNSIGNED 1381692179 PH work/proj1pack 1507307642
+AR work/int/Behavioral 1507307652 \
+      FL "C:/Proyectos ISE/PROYECTO/int.vhd" EN work/int 1507307651 CP mem CP mem2
+FL "C:/Proyectos ISE/PROYECTO/ipcore_dir/mem.vhd" 2017/10/06.08:33:27 P.20131013
+EN work/mem 1507307643 FL "C:/Proyectos ISE/PROYECTO/ipcore_dir/mem.vhd" \
+      PB ieee/std_logic_1164 1381692176
+AR work/mem/mem_a 1507307644 \
+      FL "C:/Proyectos ISE/PROYECTO/ipcore_dir/mem.vhd" EN work/mem 1507307643
+FL "C:/Proyectos ISE/PROYECTO/ipcore_dir/mem2.vhd" 2017/10/06.09:08:53 P.20131013
+EN work/mem2 1507307645 FL "C:/Proyectos ISE/PROYECTO/ipcore_dir/mem2.vhd" \
+      PB ieee/std_logic_1164 1381692176
+AR work/mem2/mem2_a 1507307646 \
+      FL "C:/Proyectos ISE/PROYECTO/ipcore_dir/mem2.vhd" EN work/mem2 1507307645
+FL "C:/Proyectos ISE/PROYECTO/proj1pack.vhd" 2017/10/06.09:25:04 P.20131013
+PH work/proj1pack 1507307642 FL "C:/Proyectos ISE/PROYECTO/proj1pack.vhd" \
+      PB ieee/std_logic_1164 1381692176 CD GPU CD VGA CD int CD mem CD mem2
+FL "C:/Proyectos ISE/PROYECTO/VGA.vhd" 2017/10/06.11:20:59 P.20131013
+EN work/VGA 1507307647 FL "C:/Proyectos ISE/PROYECTO/VGA.vhd" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/std_logic_arith 1381692177 \
+      PB ieee/STD_LOGIC_UNSIGNED 1381692179
+AR work/VGA/Behavioral 1507307648 \
+      FL "C:/Proyectos ISE/PROYECTO/VGA.vhd" EN work/VGA 1507307647

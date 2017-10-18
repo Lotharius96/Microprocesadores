@@ -1,0 +1,7 @@
+vhdl work "ipcore_dir/mem.vhd"
+vhdl work "ipcore_dir/mem2.vhd"
+vhdl work "proj1pack.vhd"
+vhdl work "VGA.vhd"
+vhdl work "int.vhd"
+vhdl work "GPU.vhd"
+vhdl work "../Ejercicio1/proyecto1/proj1est.vhd"

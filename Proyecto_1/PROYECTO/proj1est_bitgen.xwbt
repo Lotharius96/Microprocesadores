@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=C:\Proyectos ISE\PROYECTO\proj1est.ncd
+OUTFILE=C:\Proyectos ISE\PROYECTO\proj1est.bit
+FAMILY=Spartan3A and Spartan3AN
+PART=xc3s700an-4fgg484
+WORKINGDIR=C:\Proyectos ISE\PROYECTO
+LICENSE=WebPack
+USER_INFO=__0_0_0

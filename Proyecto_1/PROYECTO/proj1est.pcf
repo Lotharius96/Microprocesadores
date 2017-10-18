@@ -1,0 +1,27 @@
+//! **************************************************************************
+// Written by: Map P.20131013 on Fri Oct 06 11:34:34 2017
+//! **************************************************************************
+
+SCHEMATIC START;
+COMP "clk" LOCATE = SITE "E12" LEVEL 1;
+COMP "rgb<0>" LOCATE = SITE "C7" LEVEL 1;
+COMP "rgb<1>" LOCATE = SITE "D7" LEVEL 1;
+COMP "rgb<2>" LOCATE = SITE "B9" LEVEL 1;
+COMP "rgb<3>" LOCATE = SITE "C9" LEVEL 1;
+COMP "rgb<4>" LOCATE = SITE "C5" LEVEL 1;
+COMP "rgb<5>" LOCATE = SITE "D5" LEVEL 1;
+COMP "rgb<6>" LOCATE = SITE "C6" LEVEL 1;
+COMP "rgb<7>" LOCATE = SITE "D6" LEVEL 1;
+COMP "rgb<8>" LOCATE = SITE "A3" LEVEL 1;
+COMP "rgb<9>" LOCATE = SITE "B3" LEVEL 1;
+COMP "up" LOCATE = SITE "T14" LEVEL 1;
+COMP "hsync" LOCATE = SITE "C11" LEVEL 1;
+COMP "rgb<10>" LOCATE = SITE "B8" LEVEL 1;
+COMP "right" LOCATE = SITE "T16" LEVEL 1;
+COMP "rgb<11>" LOCATE = SITE "C8" LEVEL 1;
+COMP "left" LOCATE = SITE "U15" LEVEL 1;
+COMP "vsync" LOCATE = SITE "B11" LEVEL 1;
+COMP "reset" LOCATE = SITE "V8" LEVEL 1;
+COMP "down" LOCATE = SITE "T15" LEVEL 1;
+SCHEMATIC END;
+

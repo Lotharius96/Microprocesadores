@@ -1,0 +1,13 @@
+EN proj1est NULL "C:/Proyectos ISE/Ejercicio1/proyecto1/proj1est.vhd" sub00/vhpl11 1507307653
+AR proj1est behavioral "C:/Proyectos ISE/Ejercicio1/proyecto1/proj1est.vhd" sub00/vhpl12 1507307654
+AR gpu behavioral "C:/Proyectos ISE/PROYECTO/GPU.vhd" sub00/vhpl08 1507307650
+EN int NULL "C:/Proyectos ISE/PROYECTO/int.vhd" sub00/vhpl09 1507307651
+AR int behavioral "C:/Proyectos ISE/PROYECTO/int.vhd" sub00/vhpl10 1507307652
+EN mem NULL "C:/Proyectos ISE/PROYECTO/ipcore_dir/mem.vhd" sub00/vhpl01 1507307643
+EN vga NULL "C:/Proyectos ISE/PROYECTO/VGA.vhd" sub00/vhpl05 1507307647
+AR vga behavioral "C:/Proyectos ISE/PROYECTO/VGA.vhd" sub00/vhpl06 1507307648
+EN mem2 NULL "C:/Proyectos ISE/PROYECTO/ipcore_dir/mem2.vhd" sub00/vhpl03 1507307645
+EN gpu NULL "C:/Proyectos ISE/PROYECTO/GPU.vhd" sub00/vhpl07 1507307649
+AR mem2 mem2_a "C:/Proyectos ISE/PROYECTO/ipcore_dir/mem2.vhd" sub00/vhpl04 1507307646
+PH proj1pack NULL "C:/Proyectos ISE/PROYECTO/proj1pack.vhd" sub00/vhpl00 1507307642
+AR mem mem_a "C:/Proyectos ISE/PROYECTO/ipcore_dir/mem.vhd" sub00/vhpl02 1507307644

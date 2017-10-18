@@ -1,0 +1,6 @@
+xst -intstyle ise -ifn "C:/Proyectos ISE/PROYECTO/proj1est.xst" -ofn "C:/Proyectos ISE/PROYECTO/proj1est.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc vgacont.ucf -p xc3s700an-fgg484-4 "proj1est.ngc" proj1est.ngd  
+map -intstyle ise -p xc3s700an-fgg484-4 -cm area -ir off -pr off -c 100 -o proj1est_map.ncd proj1est.ngd proj1est.pcf 
+par -w -intstyle ise -ol high -t 1 proj1est_map.ncd proj1est.ncd proj1est.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml proj1est.twx proj1est.ncd -o proj1est.twr proj1est.pcf -ucf vgacont.ucf 
+bitgen -intstyle ise -f proj1est.ut proj1est.ncd 
